@@ -1,0 +1,152 @@
+/* Feel free to change any of the styling below!*/
+.option_Teeth{
+  display:none;
+}
+.option_Window{
+  display:none;
+}
+.option_Scream{
+  display:none;
+}
+.option_Run{
+  display:none;
+}
+.option_Yes{
+  display:none;
+}
+.option_No{
+  display:none;
+}
+.option_Advice{
+  display:none;
+}
+.option_Question{
+  display:none;
+}
+.option_Accept{
+  display:none;
+}
+.option_Decline{
+  display:none;
+}
+.option_Trapdoor{
+  display:none;
+}
+.option-one-end{
+  display:none;
+}
+.option-two-end{
+  display:none;
+}
+.option_QuestionSheriff{
+  display:none;
+}
+.option_QuestionShop{
+  display:none;
+}
+.option_Enter{
+  display:none;
+}
+.option_Drink{
+  display:none;
+}
+.option_BowlerHat{
+  display:none;
+}
+.option_Log{
+  display:none;
+}
+.option_Basketball{
+  display:none;
+}
+.option_Donut{
+  display:none;
+}
+
+body {
+    text-align: center;
+    background-color: #eb8e54;
+}
+
+img {
+    width: 350px;
+}
+
+.title {
+    font-size: 60px;
+    font-weight: 800;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    text-decoration: underline;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+    color: red;
+}
+
+
+button {
+      background-color: #483D8B;
+      color: #CDBE70;
+      border: 2px solid #CDBE70;
+      border-radius: 6px;
+      font-weight: bold;
+      text-transform: uppercase;
+      padding: 20px 40px;
+      display: inline-block;
+      
+    }
+    .buttons:hover {
+      transform: scale(1.1);
+    }
+ 
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
+/* When someone enters your game, you only want them to see the opening and the option buttons. The code below will use the display property to hide certain parts of the story. Remove the comments from the code below when you're ready for that step!*/
+
+/* 
+.story-opening{
+   display:none;
+}
+*/
+
+/* 
+.buttons{
+   display:none;
+}
+*/
+
+/* 
+.open-one-screen{
+   display:none;
+}
+*/
+
+/* 
+.open-two-screen{
+   display:none;
+}
+*/
+
+/* 
+.open-one-end{
+   display:none;
+}
+*/
+
+/* 
+.open-two-end{
+   display:none;
+}
+*/
